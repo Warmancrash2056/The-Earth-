@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Earth</title>
+    <style>
+        body{
+            background-color: black;
+        }
+        p{
+            color: white;
+            text-align: center;
+        }
+        h1{
+            color: white;
+        }
+        #title{
+            text-align: center;
+        }
+        h2{
+            color: white;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="title">The Earth</h1>
+    <main>
+        <article>
+            <h1>What is Earth</h1>
+            <p>The Earth is the third planet from the sun. Earth is the only planet that has life thanks to the godlocks zone it resides. Unlike other planets the earth has an ocean and atmosphere mainly containing h2o and oxygen.
+                Earth has a vast population of many lifeforms ranging from sigle cell bacteria too multi cellular mammals like humans and apes. The earth has been for about a quarter of the life of the universe although that can be debated. For now think of the earth as great great grandmother. 
+            </p>
+        </article>
+        <article>
+            <h1>Beatiful things about the earth.</h1>
+            <p>The Beauty of earth is astonishing. no planet in our solar has the Beauty of life. From the seven wonders to the blues seas and clear sky that you can fly over and be amazed by whats below the earth is truly. 
+                magnificent. Down Below you will find a link to the many wonders of the world. You g=have traveled many light years to see the beauty of the earth its only right that i give the spots to visit on your galactic tourism. 
+                Below you will see the many destinations that show the history of humanity and our technological advancement over the millenium. It will be great to visit all of the mbut visiting and ining out from our top restaurants is good enough.</p>
+            <h2>The Great Wall of China</h2>
+            <img src="https://cdn.britannica.com/82/94382-050-20CF23DB/Great-Wall-of-China-Beijing.jpg" alt="Picture of the reat wall of China." width="1400" height="500">
+            <p>Behold the great wall of china. this reamrkable piece of history shows how with dedication and a couple centuries of building can get you. althought the wall wasnt really good at keeping the enmies out. 
+                its a stepping stone for creating defensive measures against enemies. 
+                The wall began to form in the 7th century and took two centuries to build. 
+                like other mounuments of the time like the pyramids of gyza or the leaning tower humainty ability in creation is the top of its class.</p>
+            <h2>Chichén Itzá</h2>
+            <img src="https://cdn.britannica.com/49/61349-050-9FFBEB28/El-Castillo-pyramid-plaza-Toltec-state-Yucatan.jpg" alt="Picture of Chichén Itzá."width="1400" height="500">
+            <h2>Petra</h2>
+            <img src="https://cdn.britannica.com/25/153525-050-FC43840D/Khaznah-Petra-Jordan.jpg " alt="Picture of ancient city of Petra."width="1400" height="500">
+            <h2>Machu Picchu</h2>
+            <img src="https://cdn.britannica.com/30/94530-050-99493FEA/Machu-Picchu.jpg" alt="Picture of Machu Pichcu "width="1400" height="400">
+            <h2>Christ the Redeemer</h2>
+            <img src="https://cdn.britannica.com/54/150754-050-5B93A950/statue-Christ-the-Redeemer-Rio-de-Janeiro.jpg" alt="Picture of Christ Reedemeer" width="1400" height="500">
+            <h2>Colosseum</h2>
+            <img src="https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg" alt="Picture of Colosseum" width="1400" height="500">
+            <h2>Taj Mahal</h2>
+            <img src="https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg" alt="Picture of Taj Mahal" width="1400" height="500">
+
+        </article>
+    </main>
+</body>
+</html>
